@@ -1,0 +1,8 @@
+.nav.navbar-nav.flex-row.float-right {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-item {
+    margin-right: 1rem;
+}

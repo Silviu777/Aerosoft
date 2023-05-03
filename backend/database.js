@@ -7,6 +7,6 @@ initializeApp({
     credential: cert(serviceAccount)
 });
 
-const database = getFirestore();
+const database = getFirestore()
 
 module.exports = database
